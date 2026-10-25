@@ -9,10 +9,11 @@
 
 ### I nostri prodotti
 
-| | |
-| --- | --- |
-| **[TurboFattura](https://turbofattura.com)** | Il nostro software di fatturazione elettronica: emetti la fattura, la invii allo SdI e la segui fino alla consegna al cliente. |
-| **[TurboHR](https://www.turbofiscogroup.it/turbohr)**<br><sub>in arrivo</sub> | Il nostro software per il personale: presenze, ferie e permessi con approvazioni in un unico posto. |
+**[TurboFattura](https://turbofattura.com)**<br>
+Il nostro software di fatturazione elettronica: emetti la fattura, la invii allo SdI e la segui fino alla consegna al cliente.
+
+**[TurboHR](https://www.turbofiscogroup.it/turbohr)** <sub>in arrivo</sub><br>
+Il nostro software per il personale: presenze, ferie e permessi con approvazioni in un unico posto.
 
 ### Cosa facciamo
 
